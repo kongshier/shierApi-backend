@@ -1,0 +1,8 @@
+server:
+  port: 8088
+  servlet:
+    context-path: /api
+shier:
+  client:
+    access-key: shier
+    secret-key: shierya
