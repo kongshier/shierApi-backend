@@ -26,3 +26,19 @@
 -   Ant Design & Procomponents 组件库
 -   Umi 4 前端框架
 -   OpenAPI 前端代码生成
+
+## 接口首页（以下的是假数据）
+![image-20230410165510040](https://user-images.githubusercontent.com/94662685/230869763-96af3fc0-1acc-4210-94a3-a18a20e09ea8.png)
+
+## 接口管理
+![image-20230410165232553](https://user-images.githubusercontent.com/94662685/230869878-48303dfa-eec8-4889-90a0-45b8cdc1f5b7.png)
+
+## 接口详情
+![image-20230410165410323](https://user-images.githubusercontent.com/94662685/230869976-75c22100-4cfb-465e-904e-01a71451a8d9.png)
+
+## 接口分析
+![image-20230410165322628](https://user-images.githubusercontent.com/94662685/230870014-3c59cb80-a77a-40a3-8a3a-e1ece30bd0ca.png)
+
+
+
+
